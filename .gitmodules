@@ -1,0 +1,3 @@
+[submodule "bike-management-frontend"]
+	path = bike-management-frontend
+	url = https://github.com/DylanJC13/Transaccionales.git
